@@ -1,0 +1,29 @@
+{
+	"semi": false,
+	"tabWidth": 2,
+	"useTabs": true,
+	"singleQuote": true,
+	"trailingComma": "all",
+	"printWidth": 120,
+	"arrowParens": "avoid",
+	"overrides": [
+		{
+			"files": "*.json",
+			"options": {
+				"useTabs": false
+			}
+		},
+		{
+			"files": ".eslintrc",
+			"options": {
+				"useTabs": false
+			}
+		},
+		{
+			"files": ".prettierrc",
+			"options": {
+				"useTabs": false
+			}
+		}
+	]
+}
