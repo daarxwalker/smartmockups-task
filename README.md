@@ -6,6 +6,8 @@
 Run dev:
 
 ```bash
+make dev
+# or
 npm run dev
 # or
 yarn dev
@@ -16,6 +18,8 @@ yarn dev
 Run test:
 
 ```bash
+make test
+# or
 npm run test
 # or
 yarn test
@@ -26,6 +30,8 @@ yarn test
 Run production:
 
 ```bash
+make production
+# or
 npm run build
 npm run start
 # or
